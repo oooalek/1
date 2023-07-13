@@ -26,5 +26,6 @@ public class Main {
 
         System.out.print("Max ");
         System.out.println(max);
+        System.out.println();
     }
 }
